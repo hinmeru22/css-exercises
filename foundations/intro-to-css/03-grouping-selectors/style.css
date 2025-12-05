@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.primary,
+.secondary {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.primary {
+  color: white;
+  background-color: black;
+  font-weight: 500;
+}
+
+.secondary {
+  color: black;
+  background-color: hsl(60, 100%, 75%);
+}
