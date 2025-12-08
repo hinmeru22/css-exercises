@@ -32,6 +32,10 @@ button {
   border-radius: 8px;
   background: #eee;
   padding: 8px 16px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: hsl(0, 0%, 83%);
 }
 
 input {
